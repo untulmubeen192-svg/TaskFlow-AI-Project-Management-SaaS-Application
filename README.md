@@ -74,8 +74,6 @@ BS Information Technology Student
 
 Frontend & Web Developer
 
-GitHub: https://github.com/untulmubeen192-svg
-
 ## ⭐ Project Status
 
 ✅ Frontend Prototype Completed
